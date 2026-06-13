@@ -19,12 +19,7 @@ The Student Marks Analyzer is a Python menu-driven project that manages student 
 
 ## 🛠️ Technologies Used
 - Python  
-- Lists & Tuples  
-- Functions  
-- Loops  
-- Conditional Statements  
-- Exception Handling  
-- Sorting logic (manual implementation)  
+
 
 ---
 
