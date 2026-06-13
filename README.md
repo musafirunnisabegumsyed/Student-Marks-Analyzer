@@ -38,7 +38,7 @@ git clone https://github.com/musafirunnisabegumsyed/Student-Marks-Analyzer.git
 cd Student-Marks-Analyzer
 
 3.Run the program
-python student_analyzer.py
+python Student Marks Analyzer.py
 
 📥 Input Format
 Enter number of students: 3
